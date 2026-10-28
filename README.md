@@ -2,7 +2,7 @@
 
 ### Python Backend Developer
 
-I'm a developer focused on Python backend development, software engineering, and AI-powered applications.
+I'm focused on Python backend development, software engineering, and AI-powered applications.
 
 I enjoy building practical projects, improving code quality, and learning through testing, debugging, and continuous development.
 
@@ -10,7 +10,15 @@ I enjoy building practical projects, improving code quality, and learning throug
 
 ### [AI Chatbot](https://github.com/AltinoRuy/chatbot-project)
 
-A Python chatbot built with Streamlit, Ollama, and an agent-based architecture.
+A Python AI chatbot built with Streamlit, Ollama, and an agent-based architecture.
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/AltinoRuy/chatbot-project/main/assets/chatbot-demo.png"
+    alt="AI Chatbot interface"
+    width="800"
+  >
+</p>
 
 **Highlights:**
 - Math Agent, Writer Agent, and Orchestrator.
@@ -19,7 +27,7 @@ A Python chatbot built with Streamlit, Ollama, and an agent-based architecture.
 - Typed error handling and multilingual fallback responses.
 - Automated tests and GitHub Actions CI.
 
-**Quality:** 425 passing tests and 96.93% test coverage in the latest validation.
+**Quality:** 425 passing tests and 96.93% test coverage.
 
 ## 🛠️ Technologies
 
@@ -43,4 +51,3 @@ Build reliable software, strengthen my engineering fundamentals, and keep develo
 ---
 
 *Learning by building, testing, and improving every day.*
--->
